@@ -1,0 +1,22 @@
+[
+   {
+       "grouping":"Management",
+       "skills":[ "Project Management","Budgeting","Vendor Relations","Personnel Reviews","SCRUM","Kanban","KPIs","OKRs"]
+   },{
+       "grouping":"Languages, Operating Systems & Tools",
+       "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+   },
+   {
+       "grouping":"Platform Development & Administration",
+       "skills":[ "Atlassian: Bitbucket, Bamboo, Jira, Confluence, Crucible","Hashicorp Terraform, Vault, Consul","Continuous Integration: Jenkins, Bamboo, TeamCity, TFS"]
+   },
+   {
+     "grouping":"Containers & Cloud",
+       "skills":[
+           {"name":"Docker","link":"https://docker.com"},
+           {"name":"AWS","link":"https://aws.amazon.com"},
+           {"name":"Google Cloud","link":"https://cloud.google.com"}
+       ]
+   }
+ ]
+ 

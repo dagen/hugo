@@ -1,0 +1,39 @@
+[
+   {
+       "role":"Enterprise Architect",
+       "company":"IGNW",
+       "summary":"I'm currently working at IGNW as an Enterprise Architecture Consultant.  There, my responsibilities include helping enterprise organizations with their agile transformation or migration to the cloud.  Starting with project analysis, we work our partners to design, develop, deploy, and train their staff on techniques and technologies that help them to 1) improve cycle time, 2) reduce error rates, and 3) provide a more resilient infrastructure for business continuity.",
+       "range":"July 2018 - Present"
+   },
+   {
+       "role":"Manager - ALM Operations",
+       "company":"CDK Global",
+       "summary":"At CDK Global, my primary responsibility was to manage 2 distinct teams (11 engineers) within the Application Lifecycle Management department. As part of the ALM  team, we provided consultative services to development managers and their teams in the following areas: software development strategies, build, release, deploy, operations, and monitoring of hosted applications. We advocated and trained teams on agile and devops philosophies in order to continuously deliver improved software to our customers. ALM supports over 2000 developers world-wide and over 140 product lines.",
+       "range":"April 2014 - July 2016"
+   },
+   {
+       "role":"Sr. Web Systems Engineer",
+       "company":"Oregon Health and Science University",
+       "summary":"At OHSU, my primary responsibility was the oversight and management of the web application platform for the public website and private intranet. From custom application development, to security monitoring and remediation, to implementation of SDLC pipeline services, I was able to provide comprehensive solutions for the organization's web application development community. Often this required working collaboratively with additional ITG members from networking, database, linux/windows, and IT Security.",
+       "range":"March 2008 - April 2014"
+   },
+
+   {
+      "role":"Sr. Web Systems Engineer",
+      "company":"Mentor Graphics",
+      "summary":"At Mentor Graphics, my primary role was a web application systems engineer, supporting multiple corporate websites and web applications. Working closely with development teams, we provided server application support, load balancing services, health monitoring, reliability reports,source control, and release management support. ",
+      "range":"October 2003 - March 2008"
+   },
+   {
+      "role":"Web Application Developer",
+      "company":"iSite Design",
+      "summary":"Developed web applications for a variety of iSITE’s clients including Ron Tonkin, Dealerpeak, OHSU, and Subaru.  Provided operational support for iSITE’s hosted solutions including source control systems and separation of development, qa, and staging environments",
+      "range":"March 2002 - October 2003"
+      },
+   {
+      "role":"Manager, Web Development",
+      "company":"Centerspan",
+      "summary":"At Centerpspan, I managed a team of 6 web application developers. There, we developed a digital content delivery application using DRM, content management, banner ad management, sales lead management, and data warehousing and reporting applications.  I also mentored the web application team in the use of web application frameworks (MVC), revision control, and release management principles.",
+      "range":"June 2000 - March 2002"
+   }
+]
